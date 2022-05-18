@@ -59,7 +59,7 @@ Before you get started, you need [Python](https://python.org) 3.7 or later to ru
 
 **YOU REQUIRE INSTALLING A GCLONE BUILDPACK TOO!!!**
 
- [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Rekulous/CloneCord-Bot/blob/main)
+ [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Th4Park/Gclone_Discord/blob/main)
 
 ## Repl.it
 
