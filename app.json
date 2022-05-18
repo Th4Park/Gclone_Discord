@@ -7,11 +7,11 @@
 	"env": {
 		"TOKEN": {
 			"required": true,
-			"value": "Discord token goes here. Replace this text with token."
+			"value": "OTc2NDYwNDI0OTQ4MTE3NTc0.Gv3Ei_.0-oDZQnz2a3D2Dnc5_v1QOCFgBPx3Fk5mESJRU"
 		},
 		"PREFIX": {
 			"required": true,
-			"value": "Prefix goes here. Replace this text with prefix of your bot."
+			"value": "My_Gclne"
 		}
 	}
 }
